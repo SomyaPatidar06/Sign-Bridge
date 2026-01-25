@@ -53,18 +53,15 @@ This project demonstrates advanced integration of Computer Vision, Vector Databa
 
 ### **1. Live Translation Interface**
 Real-time hand tracking and sign recognition with confidence scores.
-![Translation Mode](https://placehold.co/800x450?text=Live+Translation+Interface)  
-*(Replace with actual screenshot)*
+![Translation Mode]<img width="1178" height="633" alt="Screenshot 2026-01-22 161929" src="https://github.com/user-attachments/assets/8f12ab67-f0c0-46f3-9fe2-74bfa725d0ac" />
 
 ### **2. Smart Context Suggestions**
 AI suggesting replies based on the conversation flow.
-![Smart Suggestions](https://placehold.co/800x450?text=Smart+Suggestions)
-*(Replace with actual screenshot)*
+![Smart Suggestions]<img width="663" height="616" alt="Screenshot 2026-01-25 105234" src="https://github.com/user-attachments/assets/f2e54b06-a6af-4f58-99ff-4afb389c7999" />
 
 ### **3. Emergency Sidebar**
 Quick access to safety tools.
-![Panic Mode](https://placehold.co/800x450?text=Emergency+Sidebar)
-*(Replace with actual screenshot)*
+![Panic Mode]<img width="927" height="763" alt="Screenshot 2026-01-25 105642" src="https://github.com/user-attachments/assets/9fbd35e5-94a3-454e-8466-0587a3e493cd" />
 
 ---
 
