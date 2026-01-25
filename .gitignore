@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build
+dist/
+build/
+.DS_Store
+
+# Environment
+.env
+
+# Qdrant Data (Keep backup.json, ignore storage folder)
+qdrant_storage/
+!.keep
